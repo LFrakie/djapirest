@@ -1,1 +1,1 @@
-web: gunircorn APIRestDjango.wsgi
+web: gunicorn APIRestDjango.wsgi
